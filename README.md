@@ -6,7 +6,7 @@ This project showcases an **interactive Power BI dashboard** analyzing survey re
 The dataset was **cleaned, transformed, and enhanced** using **Power Query Editor** in Power BI to ensure accurate and meaningful analysis.
 
 ## Dashboard Preview
-![Data Professional Survey Dashboard](Survy.png)
+![Survy.png](Survy.png)
 
 ## Key Questions Answered
 The dashboard helps answer important questions for business and HR insights:
